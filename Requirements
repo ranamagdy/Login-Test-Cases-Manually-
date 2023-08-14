@@ -1,19 +1,7 @@
-Please read the following requirements and write detailed test cases [including all direct/positive and indirect/negative test ideas] in the form of an excel sheet with the following columns:
-
-Title | Prerequisites (if needed) | Test steps |Expected Results
-
-is available in 7 languages and must be compatible with 3 browsers (internet explorer, Firefox and chrome)
+As a part of the interviewing process, below is a software quality task that you should finish. Please read it, solve it, and send it to me.
 
 
-A client for a famous Aviation Portal, for the occasion of its anniversary he decided to add a new feature to the
 
-Booking component which is to offer the portal visitors a 20% discount for the ticket if all the below conditions are met:
+- Write test case(s) that validates the registration process of Elmomawel (https://elmomawel.com/sign-up). 
 
- 
-
-1- The ticket is from Cairo to any international country
-2- The user submits his booking during the period of 15 Dec to 18 Dec
-3- The flight date is between 29/12/2018 to 3/1/2019
- 
-
-Important note: Each visitor is eligible for this offer only once. The visitor is identified by his passport number.
+- please prepare a document that describes each test case. Feel free to use any test case template you prefer.
